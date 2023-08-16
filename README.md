@@ -1,0 +1,1 @@
+Just simple test task: get the best MAE score by any possible ways.
